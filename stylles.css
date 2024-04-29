@@ -1,0 +1,152 @@
+/* Custom CSS for styling */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    margin-top: 0px;
+  }
+  
+  h1 {
+    
+    font-family: Gupter;
+font-size: 50px;
+font-weight: 700;
+line-height: 59px;
+text-align: center;
+color:  #080808;
+margin-top: 1px;
+
+  }
+   p{
+    
+    font-family: Gupter;
+font-size: 20px;
+font-weight: 700;
+line-height: 26px;
+letter-spacing: 0.03em;
+text-align: center;
+color:  #A5A692;
+
+
+  }
+
+  .ti {
+
+    font-family: Halant;
+font-size: 15px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0.03em;
+text-align: center;
+color: #595959;
+padding-left: 170px;
+padding-right: 130px;
+
+  }
+  p1 {
+    font-family: Halant;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0.03em;
+    text-align: center;
+    color: #595959;
+    padding-left: 200px;
+    
+    
+    
+  }
+  p2 {
+    font-family: Halant;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0.03em;
+    text-align: center;
+    color: #595959;
+    padding-left: 275px;
+    
+    
+    
+  }
+  
+  
+  .about-content {
+    margin-top: 30px;
+  }
+  
+  .about-img {
+   
+    margin-top: 30px;
+    width: 700px;
+height: 643.26px;
+top: 5px;
+gap: 0px;
+opacity: 0px;
+
+
+  }
+  
+  .btn {
+    margin-right: 10px;
+  }
+
+  .about-h2 {
+    padding-top: 40px;
+    font-family: Gupter;
+font-size: 30px;
+font-weight: 700;
+line-height: 59px;
+text-align: left;
+color: #494924;
+
+
+
+  }
+  
+  .about-text {
+    
+    font-family: Halant;
+font-size: 16px;
+font-weight: 400;
+line-height: 33px;
+letter-spacing: 0.03em;
+text-align: left;
+color: #595959;
+
+    padding-bottom: 40px;
+
+
+  }
+
+  .btn {
+    margin-right: 10px;
+  }
+  .btn-primary {
+    background-color: #4D5629;
+    box-shadow: 0px 4px 4px 0px #00000040;
+
+box-shadow: 0px 4px 4px 0px #1E1E1E26 inset;
+
+box-shadow: 0px 4px 4px 0px #8D051521 inset;
+
+    
+  }
+  .btn-secondary {
+    background-color: #4D5629;
+    margin-left: 44px;
+    box-shadow: 0px 4px 4px 0px #00000040;
+
+box-shadow: 0px 4px 4px 0px #1E1E1E26 inset;
+
+box-shadow: 0px 4px 4px 0px #8D051521 inset;
+
+    
+  }
+  @media (min-width: 768px) {
+    .about-img {
+      margin-top: 0;
+    }
+  }
+  
